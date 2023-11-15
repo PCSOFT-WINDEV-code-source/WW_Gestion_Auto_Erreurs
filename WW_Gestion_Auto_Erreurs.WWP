@@ -1,0 +1,111 @@
+#To edit and compare internal_properties, use WINDEV integrated tools.
+#Internal properties refer to the properties of controls in windows, reports, etc.
+info :
+ name : WW_Gestion_Auto_Erreurs
+ major_version : 28
+ minor_version : 0
+ type : 4097
+ description : Découvertes de la Gestion des Erreurs
+ subtype : 0
+project :
+ identifier : 0x0
+ internal_properties : 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
+ configurations :
+  -
+    name : Decouvertes_Gestion_Erreurs
+    internal_properties : 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
+    configuration_id : 10709757744219217934
+    type : 2
+    generation_name : .\WW_Gestion_Auto_Erreurs.wdl
+    version :
+     version : 1.00Aa
+     internal_generation_version : 2
+    language : 1
+    64bits : true
+ elements :
+  identifier : 0x4aae415900541114
+  elements :
+   -
+     name : PAGE_ErreurNonFatale
+     identifier : 0x4513b74e000318b7
+     internal_properties : CAAAAAgAAACB/fktmsdvAM59XuA2E52l2bgQSJiR7Jp2iecLyVY8/NwktewX6S5nq5IM9Lw0zDyEjA==
+     physical_name : .\PAGE_ErreurNonFatale.wwh
+     type : 65538
+   -
+     name : PAGE_PlusieursNiveaux
+     identifier : 0x4517e0ab000498d9
+     internal_properties : CAAAAAgAAAAsKgQQr9RcD9t6X+U7CZCQLK8rM49Iq5x2ZQfr31DEBMgWofAS9jFoqJ8Z568h2c85OQ==
+     physical_name : .\PAGE_PlusieursNiveaux.wwh
+     type : 65538
+   -
+     name : PAGE_ErreurFatale
+     identifier : 0x4517c81c0001aa32
+     internal_properties : CAAAAAgAAAAbdbHd3uso9fBbVWcnsE8J1whkTSKHZD20pk0piqEsP8dAWgOEgciIBo9hHgEZpg0e
+     physical_name : .\PAGE_ErreurFatale.wwh
+     type : 65538
+   -
+     name : PAGE_Menu
+     identifier : 0x4517c7c800005fef
+     internal_properties : CAAAAAgAAADbtfGdHqvotbAbquvBpK/r8V7Aqr7tKW3tWdE5mKp9QpbxC8QN6IjIRk+h3sFZ5s1e
+     physical_name : .\PAGE_Menu.wwh
+     type : 65538
+   -
+     name : PAGEMOD_GAF
+     identifier : 0x41d1929503d21e7f
+     internal_properties : CAAAAAgAAAB82lRAfySMn6sKL9XLPHCIjD0LA7U2NReC3oBycN89m6VNDgMCxgG4+C+pF59RKZ9p6Q==
+     physical_name : .\PAGEMOD_GAF.wwt
+     type : 65541
+  other_elements : []
+  net_assemblies : []
+  uwp_api : []
+  external_components : []
+  internal_components : []
+ common_generation_directory : true
+ wb_skin : 150 iStyle
+ wb_color_palette : Gentle & Light
+ languages :
+  - fr-FR
+ wd_style_sheet : .\Decouvertes_Gestion_Erreurs.sty
+ site_map :
+  roots : []
+  orphans :
+   -
+     name : PAGE_ErreurFatale
+     parameters : []
+   -
+     name : PAGE_ErreurNonFatale
+     parameters : []
+   -
+     name : PAGE_Menu
+     parameters : []
+ url_rewriting :
+  internal_properties : CAAAAAgAAADkPzcUdUUS7wCiun+MCjqYH70RJdzkSv/nRvXZ3ENdikMa6bcHtsAH
+ code_elements :
+  internal_properties : CAAAAAgAAACP9NlBIG4XHlt/sHUj0skUbtNI3iC2HVKRAcbu9fzAu4b+4WCdjwjiuaAal+/7GDzNKliwVm569Qg14dcJWUWyVQIcHpgwpmc=
+  type_code : 0
+  p_codes :
+   -
+     type : 196621
+   -
+     type : 196627
+     enabled : false
+  orphans :
+   -
+     name : Decouvertes_Gestion_Erreurs
+     identifier : 0x4aae4159005c11a0
+     code_elements :
+      type_code : 159
+      p_codes : []
+ code_parameters :
+  internal_properties : CAAAAAgAAACVGQgYbalU7DKC3oH4ItDrjtcTHXXV/EuH8q0IbhyQlw==
+  original_name : Decouvertes_Gestion_Erreurs
+rad :
+ internal_properties : CAAAAAgAAABhIL0UXeZmxDJxY3Xy0Q==
+project_explorer :
+ explorer_type : project
+resources :
+ string_res :
+  identifier : 0x0
+  internal_properties : CAAAAAgAAACm76HWfKGWp33VjXInA4cRlqArlgTTA862QGt72W2ld5Y=
+custom_note :
+ internal_properties : CAAAAAgAAAAd98VSJfHHqE3P0QHwrwdhn7ig8dWBR6valpUTgnAMTVXiDg==
